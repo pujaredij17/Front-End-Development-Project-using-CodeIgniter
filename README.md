@@ -2,6 +2,7 @@
 Online charity organization using codeIgniter
 
 General Description:
+
 LEANEVENTO: LEAN is a nonprofit organization based in Spain. Its main purpose is to collect
 medicines to be sent to needed countries. In order to be able to send donated medicines, LEAN
 organizes events to collect money in order to ship the medicines. Your group has been selected to
